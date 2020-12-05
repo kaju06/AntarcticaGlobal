@@ -1,7 +1,7 @@
 # AntarcticaGlobal
 
 # Folder Structure
-  # controller
-  # middleware
-  # model
-  # routes
+  #controller
+  #middleware
+  #model
+  #routes
